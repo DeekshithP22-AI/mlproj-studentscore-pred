@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - aws_deployment 
     paths-ignore:
       - 'README.md'
 
